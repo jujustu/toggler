@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312.048" height="174.161" viewBox="0 0 312.048 174.161">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.506" y1="0.309" x2="0.656" y2="1.104" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#73ac1f"/>
+      <stop offset="1" stop-color="#1a7d2a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.506" y1="0.691" x2="0.656" y2="-0.104" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-1403.569 -176.981)" opacity="0.93">
+    <text id="YOU_CAN_LIVE_OUR_LIFE" data-name="YOU CAN LIVE OUR LIFE" transform="translate(1431.617 344.142)" fill="#fff" font-size="27" font-family="SegoeUI, Segoe UI" letter-spacing="-0.01em"><tspan x="0" y="0">YOU </tspan><tspan y="0" fill="#29c823">CAN </tspan><tspan y="0">LIVE </tspan><tspan y="0" fill="#29c823">OUR </tspan><tspan y="0">LIFE</tspan></text>
+    <text id="JOURNEY" transform="translate(1443.206 306.348)" fill="#fff" font-size="61" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">J</tspan><tspan y="0" fill="#29c823">OUR</tspan><tspan y="0">NEY</tspan></text>
+    <path id="Path_3" data-name="Path 3" d="M34.287,9.372S23.361,31.309,0,9.372c.16-.216.92,1.371,6.3-.674,8.235-3.2,13.4-17.84,27.988-.037-3.538.754-8.169,1.386-8.169,1.386s-2.242-4.578-3.778-5.286a14.276,14.276,0,0,1,3.322,5.376s-9.917,1.418-14.145.668c.1,1.015,14.145,0,14.145,0s-.151.986-2.089,4.147c.161,0,2.646-4.248,2.646-4.248Z" transform="translate(1710.248 231.795) rotate(172)" fill="url(#linear-gradient)"/>
+    <path id="Path_4" data-name="Path 4" d="M34.287,9.75S23.361-12.187,0,9.75c.16.22.92-1.371,6.3.674,8.235,3.2,13.4,17.84,27.988.037-3.538-.754-8.169-1.386-8.169-1.386s-2.242,4.578-3.778,5.286A14.276,14.276,0,0,0,25.66,8.985s-9.917-1.418-14.145-.668c.1-1.015,14.145,0,14.145,0s-.151-.986-2.089-4.147c.161,0,2.646,4.248,2.646,4.248Z" transform="translate(1406.23 272.337) rotate(8)" fill="url(#linear-gradient-2)"/>
+    <text id="AFRICAN" transform="translate(1408.871 242.981)" fill="#fff" font-size="61" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">AFRI</tspan><tspan y="0" fill="#29c823">CAN</tspan></text>
+  </g>
+</svg>
